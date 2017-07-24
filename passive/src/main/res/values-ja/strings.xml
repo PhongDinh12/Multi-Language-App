@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">マルチ言語パッシブ</string>
+    <string name="content">これは多言語アプリケーションです</string>
+    <string name="news">GoogleはAndroid開発の公式プログラミング言語としてKotlinを追加しています</string>
+</resources>

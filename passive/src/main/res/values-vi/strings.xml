@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Đa ngôn ngữ thụ động</string>
+    <string name="content">Đây là một ứng dụng đa ngôn ngữ</string>
+    <string name="news">Google đang bổ sung Kotlin như một ngôn ngữ lập trình chính thức cho sự phát triển của Android</string>
+</resources>
