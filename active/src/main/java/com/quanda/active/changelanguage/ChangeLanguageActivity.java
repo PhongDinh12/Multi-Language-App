@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
-import com.quanda.active.Data.ItemClickListener;
+import com.quanda.active.data.ItemClickListener;
 import com.quanda.active.R;
 import com.quanda.active.databinding.ActivityChangeLanguageBinding;
 import com.quanda.active.model.Language;

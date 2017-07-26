@@ -1,4 +1,4 @@
-package com.quanda.active.Data;
+package com.quanda.active.data;
 
 public class Constants {
 

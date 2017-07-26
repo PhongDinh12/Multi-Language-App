@@ -3,7 +3,7 @@ package com.quanda.active.utils;
 import android.content.res.Configuration;
 import android.content.res.Resources;
 import com.quanda.active.App;
-import com.quanda.active.Data.Constants;
+import com.quanda.active.data.Constants;
 import com.quanda.active.R;
 import com.quanda.active.model.Language;
 import java.util.ArrayList;

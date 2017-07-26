@@ -6,7 +6,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import com.quanda.active.Data.ItemClickListener;
+import com.quanda.active.data.ItemClickListener;
 import com.quanda.active.R;
 import com.quanda.active.databinding.ItemLanguageBinding;
 import com.quanda.active.model.Language;
