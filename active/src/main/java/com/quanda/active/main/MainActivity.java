@@ -4,7 +4,7 @@ import android.content.Intent;
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import com.quanda.active.Data.Constants;
+import com.quanda.active.data.Constants;
 import com.quanda.active.R;
 import com.quanda.active.changelanguage.ChangeLanguageActivity;
 import com.quanda.active.databinding.ActivityMainBinding;
